@@ -151,9 +151,9 @@ public class InvoiceFrame extends javax.swing.JFrame {
         itemsTable.setShowGrid(true);
         jScrollPane2.setViewportView(itemsTable);
 
-        saveBtn.setText("Save");
+        saveBtn.setText("Create Item");
 
-        cancelBtn.setText("Cancel");
+        cancelBtn.setText("Delete Item");
 
         javax.swing.GroupLayout jPanel2Layout = new javax.swing.GroupLayout(jPanel2);
         jPanel2.setLayout(jPanel2Layout);
